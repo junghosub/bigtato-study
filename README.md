@@ -4,6 +4,9 @@
 
 ## 커리큘럼
 Week 1 - Numpy
+
 Week 2 - Pandas
+
 Week 3 - Skcit-Learn 기초
+
 Week 4 - Skcit-Learn 구현(Pima Indian)
