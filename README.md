@@ -5,7 +5,7 @@
 ## 커리큘럼
 Week 1 - Numpy
 
-Week 2 - Pandas
+Week 2 - Pandas(Titanic)
 
 Week 3 - Skcit-Learn 기초(Encoding에 대해서)
 
