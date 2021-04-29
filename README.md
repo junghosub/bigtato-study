@@ -13,4 +13,4 @@ Week 4 - Skcit-Learn 구현(Pima Indian)
 
 Week 5 - 분류 모델 평가지표(Confusion Matrix, ROC Curve, AUC)
 
-Week 6 - Ensemble
+Week 6 - Ensemble(Voting, Bagging)
