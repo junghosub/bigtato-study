@@ -16,3 +16,5 @@ Week 5 - 분류 모델 평가지표(Confusion Matrix, ROC Curve, AUC)
 Week 6 - Ensemble(Voting, Bagging)
 
 Week 7 - 부스팅 알고리즘의 주요한 파라미터들 설명
+
+Week 8 - 선형회귀
