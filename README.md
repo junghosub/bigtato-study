@@ -24,3 +24,7 @@ Week 8 - 선형회귀
 Week 9 - 회귀 분석 예제 (Bike Sharing Demand)
 
 Week 10 - 차원 축소
+
+Week 11 - 군집화
+
+etc - data leakage, pipeline, croos-validation
