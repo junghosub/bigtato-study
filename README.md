@@ -1,6 +1,6 @@
 # Bigtato-Study
 
-21.03.12 ~
+21.03.12 ~ 21.06.18
 
 '파이썬 머신러닝 완벽가이드' 책을 통해 머신러닝의 핵심 개념들을 학습하고, 이를 활용해 매주 금요일 스터디 발표를 진행.
 
@@ -26,5 +26,7 @@ Week 9 - 회귀 분석 예제 (Bike Sharing Demand)
 Week 10 - 차원 축소
 
 Week 11 - 군집화
+
+Week 12 - 텍스트 마이닝
 
 etc - data leakage, pipeline, croos-validation
